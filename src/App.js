@@ -9,7 +9,8 @@ const emojiDictanory = {
   "😋": "Face Savoring Food",
   "😭": "Loudly Crying Face",
   "🔥": " Fire",
-  "🍌": "Banana"
+  "🍌": "Banana",
+  "⛷️": "Skier"
 };
 var emojiWeKnow = Object.keys(emojiDictanory);
 export default function App() {
