@@ -1,2 +1,2 @@
 # emoji-interpretor
-Created with CodeSandbox
+Check the name of the emoji using this app...
